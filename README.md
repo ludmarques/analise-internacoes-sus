@@ -12,6 +12,8 @@ O objetivo é entender se os estados com mais internações realmente
 têm maiores problemas de saúde, ou se isso é apenas reflexo do 
 tamanho da população de cada estado.
 
+![Internações por 100 mil habitantes, por estado](images/internacoes_por_100k.png)
+
 ## Fonte dos Dados
 
 Dados extraídos do TabNet/DATASUS, sistema "Morbidade Hospitalar 
@@ -63,6 +65,8 @@ Ferramentas utilizadas: Python, Pandas e SQL.
   inverno (por gripe, por exemplo) não se confirmou. O padrão 
   parece depender mais das condições específicas de cada região do 
   que de uma regra geral de sazonalidade.
+  
+![Evolução mensal de internações no Brasil](images/evolucao_mensal.png)
 
 ## Limitações
 
